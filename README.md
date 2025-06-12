@@ -64,7 +64,7 @@ O relatório foi dividido em páginas temáticas, com os seguintes destaques:
 👉 [Clique aqui para visualizar o relatório](https://app.powerbi.com/view?r=eyJrIjoiYWI0ZDZhZGMtMTQ1OC00N2UwLTgwNTgtZjg2MzkzY2NmZjYxIiwidCI6ImU4Y2YyNjM5LTFmOTgtNGJiNC1iZDg5LWFiZDE0OTI4OTM3ZiJ9)
 
 📎 Ou, se preferir, veja a versão em PDF:  
-[Relatório em PDF](./GRUPO VAREJO BRASIL.pdf)
+[Relatório em PDF](./grupo_varejo_brasil.pdf)
 
 ---
 
